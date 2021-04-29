@@ -7,6 +7,7 @@ def Evenorodd(n):
 n=int(input("Enter a number to find if it is even or odd : "))
 print(Evenorodd(n))
 
+#Hi this is a comment area, this line is added to check if the commit is possible
 #2. Factorial
 
 def fact(num):
